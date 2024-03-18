@@ -1,0 +1,12 @@
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\bin\Debug\net6.0\Ecomm_practice01.utility.deps.json
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\bin\Debug\net6.0\Ecomm_practice01.utility.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\bin\Debug\net6.0\Ecomm_practice01.utility.pdb
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.csproj.AssemblyReference.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.AssemblyInfoInputs.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.AssemblyInfo.cs
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.csproj.CoreCompileInputs.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\refint\Ecomm_practice01.utility.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\Ecomm_practice01.utility.pdb
+D:\taining\Ecomm_practice01\Ecomm_practice01.utility\obj\Debug\net6.0\ref\Ecomm_practice01.utility.dll

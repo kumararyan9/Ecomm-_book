@@ -1,0 +1,41 @@
+﻿
+
+<div class="row">
+    <div class="col-9">
+        <h2 class="text-bg-primary">Category list</h2>
+    </div>
+    <div class="col-3">
+        <a asp-action="Upsert" class="btn btn-close-white form-control">
+            <i class="fas fa-plus">&nbsp;New Category</i>
+        </a>
+    </div>
+</div>
+
+<div class="container rounded border">
+    <table id="tbldata" class="table table-bordered table-active table-striped">
+        <thead>
+            <tr>
+                <th>Actions</th>
+                <th>Name</th>
+                
+            </tr>
+        </thead>
+    </table>
+</div>
+@section Scripts{
+    <script src="~/js/Category.js"></script>
+    <script>
+        $(document).ready(function () {
+            alert();
+            if ('@TempData["message"]' === "Added") {
+                toastr.success("Saved",'Sucessfully');
+            }
+            if ('@TempData["message"]' === "Updated") {
+                toastr.success("Updated", 'Sucessfully');
+            }
+            else { }
+
+        });
+
+    </script>
+}

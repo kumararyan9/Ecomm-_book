@@ -1,0 +1,17 @@
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.DataAccess.deps.json
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.DataAccess.runtimeconfig.json
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.DataAccess.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.DataAccess.pdb
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.Model.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\bin\Debug\net6.0\Ecomm_practice01.Model.pdb
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.csproj.AssemblyReference.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.AssemblyInfoInputs.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.AssemblyInfo.cs
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.csproj.CoreCompileInputs.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.csproj.CopyComplete
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\refint\Ecomm_practice01.DataAccess.dll
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.pdb
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\Ecomm_practice01.DataAccess.genruntimeconfig.cache
+D:\taining\Ecomm_practice01\Ecomm_practice01.DataAccess\obj\Debug\net6.0\ref\Ecomm_practice01.DataAccess.dll
